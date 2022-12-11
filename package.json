@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ma696340/friendfindermaddie#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
